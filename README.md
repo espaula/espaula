@@ -27,14 +27,14 @@
   
 ### :smiley: Hi there. My name is Edilaine. 👋
 
-### Estudos
+## Estudos
 
 * **MBA em Arquitetura de Soluções Digitais:** Impacta Tecnologia (em andamento)
 * **Bacharelado em Sistemas para Internet:** Fatec Carapicuíba
 * **Tecnico em informatica:** Etec
 
   
-### Work
+## Work
 
 * **Itaú Unibanco:** Modernização de sistemas, desenvolvimento de APIs RESTful e automação de processos.
 * **Alcatel:** Suporte a clientes, desenvolvimento de microserviços e integração com sistemas legados.
@@ -43,20 +43,21 @@
 * **Obras Online:** Desenvolvimento web e e-commerce.
 
   
- ### Interesses
+ ## Interesses
 
 * **Machine Learning:** Explorar técnicas de aprendizado de máquina para desenvolver soluções inteligentes e automatizadas, como modelos preditivos e sistemas de recomendação.
 * **Arquitetura de Sistemas Cloud:** Desenvolver arquiteturas escaláveis e resilientes em nuvem, utilizando tecnologias como AWS e Azure.
 * **Big Data:** Trabalhar com grandes volumes de dados para extrair insights valiosos e tomar decisões mais assertivas.
 * **DevOps:** Automatizar processos de desenvolvimento e entrega de software para aumentar a eficiência e a qualidade.
 * **Novas tecnologias:** Acompanhar as últimas tendências do mercado e explorar novas linguagens de programação e frameworks.
- ### English
+ 
+ ## English
   
 Reading: :black_square_button: :black_square_button: :white_check_mark: :black_square_button: :black_square_button:</br>
 Writing: :black_square_button: :black_square_button: :white_check_mark: :black_square_button: :black_square_button:</br>
 Conversation: :black_square_button: :white_check_mark: :black_square_button: :black_square_button: :black_square_button:</br>
 
- ### Spanish
+ ## Spanish
   
 Reading: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :white_check_mark:</br>
 Writing: :black_square_button: :black_square_button: :black_square_button: :white_check_mark: :black_square_button:</br>
